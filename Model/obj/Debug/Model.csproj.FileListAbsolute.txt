@@ -1,0 +1,6 @@
+D:\workspace\DM\Model\bin\Debug\Model.dll
+D:\workspace\DM\Model\bin\Debug\Model.pdb
+D:\workspace\DM\Model\obj\Debug\Model.dll
+D:\workspace\DM\Model\obj\Debug\Model.pdb
+D:\workspace\DM\bin\Debug\Model.dll
+D:\workspace\DM\bin\Debug\Model.pdb
